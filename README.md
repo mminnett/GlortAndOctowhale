@@ -1,4 +1,4 @@
 Author: Matthew Minnett; 
-Art and Programming: All me babyy (besides DirectX library stuff);
+Art and Programming: Also Matthew Minnett;
 
-Desc: This is a little school assignment using C++ and DirectX library files to create a breakout-type game. If you download and run 'Assignment4StartPoint' (good name, I know) in 'GlortAndOctowhale/Debug', you can try it out!
+Desc: This is a school assignment utilizing C++ and custom art and animations to create a breakout-type game. If you download and run 'Win32GraphicsProject.exe' in 'GlortAndOctowhale/Debug', you can try it out!
